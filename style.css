@@ -1,0 +1,15 @@
+#videos iframe
+{
+    width: 100%;
+}
+
+
+.navbar-inverse
+ { 
+    position:sticky;
+     top:0; 
+     z-index:99999 ;
+     color:black;
+    }
+    
+    
